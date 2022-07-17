@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br>
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdulahad07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,7 +12,15 @@
   <a href="https://twitter.com/abdulahad077">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
+<p align="center">
+  <a href="http://twitter.com/abdulahad077">
+    <img src="https://img.shields.io/twitter/follow/abdulahad077?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Abdul Ahad's Twitter"/>
+  </a>
+  <a href="http://youtube.com/channel/UCSyJ3ks2wje7Cy-NaoLUBfA">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCSyJ3ks2wje7Cy-NaoLUBfA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Abdul Ahad's YouTube channel"/>
+  </a>
+</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulahad-07&style=flat-square&color=blue" alt=""/>
   <h1>
