@@ -56,6 +56,8 @@
 
 ### 🔥 My Stats:
 
+[![Ngoako's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahad-07&count_private=true&show_icons=true&hide=stars&theme=vue)](https://github.com/abdulahad-07/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdulahad-07&theme=flag-india)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad-07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
